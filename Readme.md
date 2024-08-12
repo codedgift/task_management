@@ -1,13 +1,9 @@
-# Senior Laravel Developer Interview Task - User Management System API
-
-### **Task Overview**
-
-Develop a **User Management System API** using Laravel. This API will be responsible for handling user profiles within an application, including operations such as creating, updating, viewing, and deleting users.
+# Assessment: Building a Task Management System
 
 ## Installation and Setup
 **1. Clone the repository on your machine**
 ```sh
-git clone github.com/repository_url
+git clone https://github.com/codedgift/task_management.git
 ```
 **2. Install Composer**
 CD into your project directory then run this composer command to install all the dependency needed for your applicaiton to run
